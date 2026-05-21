@@ -1,6 +1,6 @@
-# SyntaxForge: Autonomous Code Remediation Agent
+# Semantica: Autonomous Code Remediation Agent
 
-SyntaxForge is a high-performance, autonomous developer tool designed to automatically detect, isolate, and remediate syntactical anomalies in Python source code while dynamically injecting structured inline documentation. 
+Semantica is a high-performance, autonomous developer tool designed to automatically detect, isolate, and remediate syntactical anomalies in Python source code while dynamically injecting structured inline documentation. 
 
 Unlike brittle regular-expression frameworks or token-heavy monolithic language model workflows, SyntaxForge treats code structurally. By compiling source scripts into an Abstract Syntax Tree (AST), the agent surgically isolates corrupted code segments and targeting the runtime entry block (`__main__`) for precise modifications with **100% structural accuracy** and zero side effects on global scopes.
 
